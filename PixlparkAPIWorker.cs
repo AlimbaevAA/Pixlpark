@@ -11,7 +11,7 @@ namespace Pixlpark
     {
 
         private const string PUBLIC_KEY = "38cd79b5f2b2486d86f562e3c43034f8";
-        private const string PRIVATE_KEY = "8e49ff607b1f46e1a5e8f6ad5d312a80";
+        private const string PRIVATE_KEY = "8e49ff607b1f46e1a5e8f6ad5d312a";
         private readonly HttpClient client;
 
         public PixlparkAPIWorker(HttpClient client)
