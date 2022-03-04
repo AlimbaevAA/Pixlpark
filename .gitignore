@@ -1,0 +1,11 @@
+/.vs
+/appsettings.Development.json
+/appsettings.json
+/bin
+/obj
+/Pages
+/Pixlpark.csproj
+/Program.cs
+/Properties
+/Startup.cs
+/wwwroot
